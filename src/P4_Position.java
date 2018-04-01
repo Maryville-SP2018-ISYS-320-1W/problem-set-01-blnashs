@@ -1,28 +1,16 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s): Barbara Nash
+  	Date: April 1, 2018
 */
 
 public class P4_Position {
 
 	public static void main(String[] args) {
 
-		double s0;
-		double v0;
-		double a; 
-		double t; 
-		double t2;
-		double s;
-		
-		s0 = 15;
-		v0 = 18;
-		t = 45;
-		a = 5;
-		t2 = t * t;
-		s = s0 + v0 * t + (.5 * (a * t2));
-		
-		System.out.print("s = ");
+		double s=0,v0=0, a=16.2162, t=3.7s;
+		s=s0 + (v0*t) + (0.5*a*t*t);
+		System.out.print("s ="+s);
 		System.out.print(s);
 	}
 
