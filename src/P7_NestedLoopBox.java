@@ -12,6 +12,8 @@ for( 6 lines )
 		print new line
 
 */
+// for each line print 6 stars
+// repeat each line of 6 stars 6 times
 public class P7_NestedLoopBox {
 
 	
