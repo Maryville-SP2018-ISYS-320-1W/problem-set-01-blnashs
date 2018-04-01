@@ -1,4 +1,4 @@
-
+/*
 
 public class P2_FightSong {
 	public static void main(String[] args) {
